@@ -25,4 +25,10 @@ Some other features of this website are -
     time.
 15. Users can look for other users by their first, last, or full names.
 
+Database design
+
 ![Screenshot](Screenshot.png)
+
+Site Map
+
+![Screenshot](Screenshot1.png)
